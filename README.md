@@ -42,7 +42,7 @@ below:
 
 Funds (0, 1) and (2, 3) are joint funds meaning withdraws may take away from related funds if necessary.
 
-For example: Attempting to withdraw from Money Marketwith with insufficient funds may result in funds withdrawn from both Money Market and Prime Money Market if possible.
+For example: Attempting to withdraw from Money Market with insufficient funds may result in funds being withdrawn from both Money Market and Prime Money Market if possible.
 
 A client account is opened as a transaction.
 
