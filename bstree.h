@@ -1,6 +1,4 @@
 /*	
-*	CSS 342 B Program 5: Bank
-*	Steven Chau
 *	Binary Search Tree class
 *	Handles accounts and stores them in nodes
 */
