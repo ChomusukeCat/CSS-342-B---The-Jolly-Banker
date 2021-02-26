@@ -1,6 +1,4 @@
 /*	
-*	CSS 342 B Program 5: Bank
-*	Steven Chau
 *	Driver code for bank program
 *	Reads file and starts transaction process
 */
