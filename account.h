@@ -1,6 +1,4 @@
 /*
-*	CSS 342 B Program 5: Bank
-*	Steven Chau
 *	Account class
 *	Handles transaction functions
 *	Stores history and funds
