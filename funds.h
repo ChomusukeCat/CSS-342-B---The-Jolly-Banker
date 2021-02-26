@@ -1,6 +1,4 @@
 /*	
-*	CSS 342 B Program 5: Bank
-*	Steven Chau
 *	Funds class
 *	Handles balances of funds
 */
